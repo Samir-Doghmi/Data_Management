@@ -5,7 +5,7 @@ The focus of this course project is to build the dataset using different tools r
 
 This roadmap highligths the projects main steps:
 
-## data acquisition (API and scraping)
-## database selection
-## data cleaning, data integration, data quality 
-## analysis of results
+1. data acquisition (API and scraping)
+2. database selection
+3. data cleaning, data integration, data quality 
+4. analysis of results
